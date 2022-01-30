@@ -6,7 +6,7 @@ layout: default
 
 <img src="{{site.baseurl}}/images/banner.jpg" alt="Team Photo" style="width:100%;"/>
 
-<p>The Charlottesville Racing Club is a multi-disciplinary cycling club encompassing road, mountain bike, cyclocross, gravel, and triathlons. As a club affiliated with USA Cycling, we also host several races per year, and our NICA junior mountain bike team is one of the area's largest, with nearly 100 members.</p>
+<p>The Charlottesville Racing Club is a multi-disciplinary cycling club encompassing road, mountain bike, cyclocross, gravel, and triathlons. As a club affiliated with USA Cycling, we also host several races per year, and our NICA junior mountain bike team is one of the area's largest, with nearly 100 members. Follow us on social media (links before) for more information about our club rides and other events.</p>
 
 <div class="row section">
     <div class="col-md-4">
