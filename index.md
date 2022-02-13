@@ -8,6 +8,8 @@ layout: default
 
 <p>The Charlottesville Racing Club is a multi-disciplinary cycling club encompassing road, mountain bike, cyclocross, gravel, and triathlons. As a club affiliated with USA Cycling, we also host several races per year, and our NICA junior mountain bike team is one of the area's largest, with nearly 100 members. Follow us on social media (links before) for more information about our club rides and other events.</p>
 
+<p>We race as Blue Ridge Cyclery Racing p/b Reynolds GM-Subaru.</p>
+
 <div class="row section">
     <div class="col-md-4">
         <div class="card">

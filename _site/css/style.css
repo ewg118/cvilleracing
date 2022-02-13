@@ -20,7 +20,7 @@ body{
     background-color: white;
 }
 .section{
-    margin-bottom: 25px;
+    margin-bottom: 50px;
 }
 .card{
     height: 300px;
@@ -36,14 +36,19 @@ body{
 
 #footer{
     color: white;
-    margin-top: 25px;
+    margin-top:25px;
+    margin-bottom:25px;
 }
 .soc-icon{
     height: 24px;
     width: 24px;
     margin: 0 4px;
 }
-
+/*
+  ****************************************
+  NAVBAR
+  ****************************************
+ */
 .navbar{
     background-color: #172441;
     margin-bottom: 0;
