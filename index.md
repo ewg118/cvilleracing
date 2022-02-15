@@ -10,7 +10,7 @@ layout: default
 
 <p>We race as Blue Ridge Cyclery Racing p/b Reynolds GM-Subaru.</p>
 
-<div class="row section">
+<!--<div class="row section">
     <div class="col-md-4">
         <div class="card">
             <h3>Join</h3>
@@ -29,7 +29,7 @@ layout: default
             <div class="truncate"></div>
         </div>
     </div>
-</div>
+</div>-->
 
 <div class="row section">
     <div class="col-md-12 text-center">
