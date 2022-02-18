@@ -10,7 +10,7 @@ Annual club membership dues are $30, payable by February 1 each year. Paying due
 
 Reimbursements and Volunteering: Becoming a team member will also make you eligible for kit and race fee reimbursements if you volunteer at club events. The specific reimbursement amount will be determined by the board on a year-by-year basis. Nonetheless, the reimbursement is one of the best offered by any cycling club in the region.
 
-You will also be able to receive great discounts through [Blue Ridge Cyclery](https://www.blueridgecyclery.com/), choose a new bike through Trek’s GART program and enjoy many more perks offered by our sponsors.
+You will also be able to receive great discounts through [Blue Ridge Cyclery](https://www.blueridgecyclery.com/) and enjoy many more perks offered by our sponsors.
 
 In order to join CRC, you must read and agree to the [waiver]({{site.baseurl}}/content/CRC Membership Waiver.pdf).
 
