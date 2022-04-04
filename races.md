@@ -27,7 +27,7 @@ The Charlottesville Racing Club organizes several races each year in a number of
     <div class="col-md-9">
         <h4>
             {% if race.id %}
-                <a href="{{race.id}}">{{race.name}}</a>
+                <a href="{{race.id}}/">{{race.name}}</a>
             {% else %}
                 {{race.name}}
             {% endif %}
