@@ -14,7 +14,11 @@ The Charlottesville Racing Club organizes several races each year in a number of
 <div class="row section">
     <div class="col-md-3 text-center">
         {% if race.image %}
-            {%if race.bikereg %}
+            {%if race.id %}
+            <a href="{{race.id}}/">
+                <img src="{{site.baseurl}}/images/{{race.image}}" alt="{{race.name}} Image" class="block-image"/>
+            </a>           
+            {% elsif race.bikereg %}
             <a href="{{race.bikereg}}">
                 <img src="{{site.baseurl}}/images/{{race.image}}" alt="{{race.name}} Image" class="block-image"/>
             </a>
